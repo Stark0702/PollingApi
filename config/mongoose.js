@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // Connect to the MongoDB database using mongoose.connect() method and specify the database URL and options
 mongoose.connect(
-  "mongodb+srv://kashyappatel326:Kashyap0702@cluster0.qtpj1gg.mongodb.net/?retryWrites=true&w=majority",
+  "mongodb+srv://username:<password>@cluster0.qtpj1gg.mongodb.net/?retryWrites=true&w=majority",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
