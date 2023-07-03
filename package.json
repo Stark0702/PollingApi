@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Anmol Arora",
+  "author": "Kashyap Patel",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
